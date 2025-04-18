@@ -1,0 +1,97 @@
+Not a fan of the desktop version of Game Jolt?  
+Want a smaller install that keeps 85% of the files?  
+Hate those damn notifications?  
+Then this is 100% for you.
+
+### UNFUCKED GAME JOLT
+
+This version of Game Jolt was made on Windows 10, mainly to murder those annoying-ass notifications away.  
+More improvements like small bug fixes or quality-of-life tweaks might come later.
+
+### INSTALLATION GUIDE
+
+1. Either use Windows' default extraction method or Download WinRAR or 7-Zip
+2. Right click UnfuckedGameJoltClient.zip and click "Extract to UnfuckedGameJoltClient\"
+If there's no extract to folder, make a folder, name it UnfuckedGameJoltClient, and "Extract Files" or "Extract To" in there
+3. Double click the folder, Right-click the shortcut named "Unfucked Game Jolt Client Enhanced" inside the "UnfuckedGameJoltClient" folder  
+4. Click "Cut"  
+5. Go to your Desktop  
+6. Right-click on the Desktop and click "Paste"  
+7. Double-click the client to open it and enjoy
+
+### GAMES GUIDE
+
+Game Jolt's mainly for downloading games, right? So why not make it better?
+
+1. Click your profile picture  
+2. Click "Settings"  
+3. Find "Installed Games Directory"  
+4. Change it to something like:  
+   C:\Users\YourUsernameHere\Desktop\UnfuckedGameJoltClient\GamesDIR
+
+If you're installing on another storage device, just use something like:  
+   D:\GameJoltGamesDIR  
+(D is just an example. Swap it with your drive letter.)
+
+Try installing a game for testing. If it runs smooth, you're golden.
+
+### IMPORTANT
+
+If you see:  
+"Uh oh, client has trouble updating! Try restarting"  
+Don’t panic.  
+Some files were changed, so the client gets confused.  
+Just don’t update it. It'll break shit.
+
+### TROUBLESHOOTING GUIDE
+
+- Made for Windows 10 RTM and up (also works on Windows 11)  
+- Might run on Windows 7 or 8.1, but expect crashes/bugs  
+  - If you're using 7 or 8.1:  
+    > Must be 64-bit  
+    > Install all system updates  
+    > Try anything that helps new apps run on old systems
+
+### ANDROID / IPHONE USERS
+
+1. Open device Settings  
+2. Find Game Jolt under Apps  
+3. Tap Notifications  
+4. Turn off whatever pisses you off
+
+### LINUX USERS
+
+You got 3 paths:  
+1. Wait for a Linux build (if that ever happens)  
+2. Tinker with the files, replace your Linux data folder with this one  
+3. Block updates if possible
+
+### MAC USERS
+
+This build doesn't support macOS. So your options are:  
+- Install Windows  
+- Use a Virtual Machine  
+- Use a tool that runs .exe files (like Wine or something similar)
+
+### NOTE
+
+This project ain’t fancy. It’s just meant to give you:  
+- Better privacy  
+- Less distractions
+
+Especially when you’re gaming or out in public.  
+You might still hit bugs or weird stuff tho.
+
+### FOUND AN ISSUE?
+
+Open this link in your browser:  
+https://gamejolt.com/x/permalink/comment/35906099  
+Click on "Shouts" and drop what’s going wrong.
+
+Using the app on your phone and the link won’t open?  
+1. Search @LeashedSkies on Game Jolt  
+2. Go to the profile  
+3. Tap Shouts  
+4. Find the thread called:  
+   "Thread dedicated for 'Unfucked Game Jolt' issues and bugs"  
+5. Reply with full details about the problem
